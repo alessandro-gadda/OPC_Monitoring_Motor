@@ -1,0 +1,8 @@
+CregTeo	20
+Tolleranza	10
+
+DateTime Creg
+1	10
+2	15
+3	20
+4	25

@@ -1,0 +1,70 @@
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.exe.config
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.exe
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.pdb
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csprojResolveAssemblyReference.cache
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Properties.Resources.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csproj.GenerateResource.Cache
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csproj.CoreCompileInputs.cache
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.exe
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.pdb
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form1.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csprojResolveAssemblyReference.cache
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form1.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Properties.Resources.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csproj.GenerateResource.Cache
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csproj.CoreCompileInputs.cache
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.exe
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.pdb
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.exe.config
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.exe
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.pdb
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.dll.config
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.dll
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.Math.Core.dll
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.Math.dll
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.xml
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.Math.xml
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.Math.Core.xml
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form0.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form2.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form3.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.dll.config
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.exe.config
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.exe
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.pdb
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.dll
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.Math.Core.dll
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.Math.dll
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.xml
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.Math.xml
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\bin\Debug\Accord.Math.Core.xml
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csprojResolveAssemblyReference.cache
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form0.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form1.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form2.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form3.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Properties.Resources.resources
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csproj.GenerateResource.Cache
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csproj.CoreCompileInputs.cache
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.exe
+C:\Users\CtPack\Desktop\Tiberia\VisualStudio\Git - Copia\OPC_CTPACK_Software\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.pdb
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\bin\Debug\Accord.dll.config
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.exe.config
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.exe
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\bin\Debug\OPC_CTPACK_Software.pdb
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\bin\Debug\Accord.dll
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\bin\Debug\Accord.Math.Core.dll
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\bin\Debug\Accord.Math.dll
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\bin\Debug\Accord.xml
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\bin\Debug\Accord.Math.xml
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\bin\Debug\Accord.Math.Core.xml
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form0.resources
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form1.resources
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form2.resources
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Form3.resources
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.Properties.Resources.resources
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.exe
+\\Mac\Home\Documents\GitHub\OPC_Monitoring_CTPack\OPC_CTPACK_Software\obj\Debug\OPC_CTPACK_Software.pdb
